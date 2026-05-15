@@ -1,0 +1,19 @@
+Classification Report:
+
+              precision    recall  f1-score   support
+
+        Acne       1.00      1.00      1.00         3
+      Eczema       0.75      1.00      0.86         3
+    Melanoma       1.00      0.67      0.80         3
+   Psoriasis       1.00      1.00      1.00         3
+
+    accuracy                           0.92        12
+   macro avg       0.94      0.92      0.91        12
+weighted avg       0.94      0.92      0.91        12
+
+
+Training Accuracy: 96.00%
+Validation Accuracy: 93.00%
+
+Sample Prediction Output:
+Predicted Skin Disease: Melanoma
